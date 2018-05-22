@@ -1,0 +1,518 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"dir",
+				"director"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"w",
+				"w\twidth"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"com",
+				"combattant1"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"nam",
+				"name2"
+			],
+			[
+				"pl",
+				"player2"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"M",
+				"Monkey"
+			],
+			[
+				"foo",
+				"foods_eaten"
+			],
+			[
+				"l",
+				"lettres"
+			],
+			[
+				"ta",
+				"tabpoint"
+			],
+			[
+				"tab",
+				"tabname"
+			],
+			[
+				"cryp",
+				"cryptomonnaies"
+			],
+			[
+				"xp",
+				"xpath"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"al",
+				"alphabet"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"A",
+				"ARGV"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"im",
+				"img\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ind",
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"h",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 533.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kalejo/THP/Calculatrice/part1.html",
+		"/home/kalejo/THP/Mailer/test-email/app/mailers/contact_mailer.rb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/mailjet.env",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Emailing/mailing.rb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/assets/stylesheets/vieuwok.css.erb",
+		"/home/kalejo/THP/Mailer/test-email/app/assets/stylesheets/agency.css",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/ok.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/pros.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/lille.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/config/initializers/mailjet.rb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/hackers.html.erb",
+		"/home/kalejo/THP/Mailer/test-email/test/mailers/previews/contact_mailer_preview.rb",
+		"/home/kalejo/THP/Mailer/test-email/app/controllers/static_page_controller.rb",
+		"/home/kalejo/THP/Mailer/test-email/config/application.rb",
+		"/home/kalejo/THP/Mailer/test-email/config/initializers/assets.rb",
+		"/home/kalejo/THP/Mailer/test-email/config/environments/development.rb",
+		"/home/kalejo/THP/Mailer/test-email/config/environments/production.rb",
+		"/home/kalejo/THP/Mailer/test-email/config/environments/test.rb",
+		"/home/kalejo/THP/Mailer/test-email/app/views/contact_mailer/contact.html.erb",
+		"/home/kalejo/THP/Mailer/test-email/config/initializers/mailjet.rb",
+		"/home/kalejo/THP/Mailer/test-email/script.env",
+		"/home/kalejo/THP/Mailer/test-email/.gitignore",
+		"/home/kalejo/THP/Mailer/test-email/Gemfile",
+		"/home/kalejo/THP/Mailer/test-email/app/views/static_page/home.html.erb",
+		"/home/kalejo/THP/Mailer/test-email/config/routes.rb",
+		"/home/kalejo/THP/Mailer/test-email/app/views/contact_mailer/contact.text.erb",
+		"/home/kalejo/THP/Mailer/test-email/app/assets/stylesheets/agency.min.css",
+		"/home/kalejo/THP/Mailer/test-email/app/assets/stylesheets/font-awesome.css.scss.erb",
+		"/home/kalejo/THP/Mailer/test-email/app/views/layouts/application.html.erb",
+		"/home/kalejo/Images/1.jpg",
+		"/home/kalejo/Téléchargements/02 dinomuz/index.html",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/views/layouts/_navigation.html.erb",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/views/home/index.html.erb",
+		"/home/kalejo/THP/Landin_page2/glint/_navigation.html.erb",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/vendor.css",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/main.css",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/fonts.css",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/base.css",
+		"/home/kalejo/THP/Landin_page2/W7D2/config/initializers/assets.rb",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/home.scss",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/jquery-3.2.1.min.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/main.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/views/layouts/application.html.erb",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/font-awesome/css/font-awesome.css",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/application.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/plugins.js",
+		"/home/kalejo/THP/Landin_page2/glint/js/plugins.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/pace.min.js",
+		"/home/kalejo/THP/Landin_page2/glint/js/pace.min.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/javascripts/modernizr.js",
+		"/home/kalejo/THP/Landin_page2/glint/js/modernizr.js",
+		"/home/kalejo/THP/Landin_page2/glint/js/main.js",
+		"/home/kalejo/THP/Landin_page2/glint/js/jquery-3.2.1.min.js",
+		"/home/kalejo/THP/Landin_page2/W7D2/app/assets/stylesheets/css.css",
+		"/home/kalejo/THP/Testing/club-privé/app/models/user.rb",
+		"/home/kalejo/THP/Testing/club-privé/test/models/user_test.rb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/layouts/application.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/devise/registrations/new.html.erb",
+		"/home/kalejo/bordel/correction/TDD_de_l_enfer/config/initializers/devise.rb",
+		"/home/kalejo/THP/Testing/club-privé/app/assets/stylesheets/application.scss",
+		"/home/kalejo/THP/Testing/club-privé/app/controllers/application_controller.rb",
+		"/home/kalejo/THP/Testing/club-privé/config/routes.rb",
+		"/home/kalejo/THP/Testing/club-privé/README.md",
+		"/home/kalejo/THP/Testing/club-privé/config/locales/devise.views.fr.yml",
+		"/home/kalejo/THP/Testing/club-privé/app/views/devise/registrations/edit.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/layouts/_messages.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/Gemfile",
+		"/home/kalejo/THP/Testing/club-privé/app/controllers/users_controller.rb",
+		"/home/kalejo/THP/Testing/club-privé/app/helpers/application_helper.rb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/users/show.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/layouts/_navigation.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/config/locales/devise.fr.yml",
+		"/home/kalejo/THP/Testing/club-privé/config/application.rb",
+		"/home/kalejo/THP/Testing/club-privé/app/views/home/index.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/app/assets/stylesheets/application.css",
+		"/home/kalejo/THP/Testing/club-privé/app/assets/javascripts/application.js",
+		"/home/kalejo/THP/Testing/club-privé/app/views/devise/sessions/new.html.erb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/views/layouts/_navigation.html.erb",
+		"/home/kalejo/THP/Testing/club-privé/config/initializers/devise.rb",
+		"/home/kalejo/THP/atelier/Les_services/service/app/services/say_hello.rb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/layouts/_matrix2.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/layouts/_matrix.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/layouts/application.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/assets/javascripts/application.js",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/assets/javascripts/mains.js",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/_matrix.html.erb",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/assets/stylesheets/application.css",
+		"/home/kalejo/THP/Landing-Pages/W6D4/Landing_page/app/views/home/_main.js",
+		"/home/kalejo/THP/Event2/Event-Devise/app/views/sharede/_errors.html.erb",
+		"/home/kalejo/bordel/events/Eventbrite-Devise/app/controllers/events_controller.rb",
+		"/home/kalejo/Téléchargements/app/controllers/charges_controller.rb",
+		"/home/kalejo/Téléchargements/app/controllers/application_controller.rb",
+		"/home/kalejo/Téléchargements/app/controllers/static_pages_controller.rb",
+		"/home/kalejo/Téléchargements/app/controllers/events_controller.rb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/models/event.rb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/views/events/_form.html.erb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/views/shared/_errors.html.erb",
+		"/home/kalejo/THP/Event2/Event-Devise/Gemfile",
+		"/home/kalejo/THP/Event2/Event-Devise/app/assets/stylesheets/application.scss",
+		"/home/kalejo/THP/Event2/Event-Devise/app/models/user.rb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/views/devise/registrations/new.html.erb",
+		"/home/kalejo/THP/Event2/Event-Devise/app/controllers/events_controller.rb",
+		"/home/kalejo/bordel/events/Eventbrite-Devise/config/initializers/devise.rb",
+		"/home/kalejo/bordel/events/Eventbrite-Devise/Gemfile",
+		"/home/kalejo/THP/Eventbrite/W5D4/Gemfile",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/static_pages/home.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/user/create.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/assets/stylesheets/user.scss",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/session/new.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/assets/stylesheets/session.scss",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/assets/stylesheets/application.css",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/assets/stylesheets/event.scss",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/event/show.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/layouts/application.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/user/new.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/user/showid.html.erb",
+		"/home/kalejo/THP/Eventbrite/W5D4/app/views/user/show.html.erb",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/app/assets/stylesheets/static_pages.scss",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/config/routes.rb",
+		"/home/kalejo/THP/secret/secret/Gemfile",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/app/views/layouts/application.html.erb",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/app/views/static_pages/home.html.erb",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/app/views/gossips/new.html.erb",
+		"/home/kalejo/THP/gossip-projet/the-gossip-project/app/controllers/static_pages_controller.rb",
+		"/home/kalejo/THP/the-movie-database/the-movie-database/app/models/movie.rb",
+		"/home/kalejo/THP/the-movie-database/the-movie-database/app/models/director.rb",
+		"/home/kalejo/THP/the-movie-database/the-movie-database/db/migrate/20180430135554_create_directors.rb",
+		"/home/kalejo/THP/the-movie-database/the-movie-database/db/migrate/20180430135111_deletedirector.rb"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "part1.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"contac",
+				"test-email/app/mailers/contact_mailer.rb"
+			],
+			[
+				"cont",
+				"test-email/app/mailers/contact_mailer.rb"
+			],
+			[
+				"asse",
+				"config/initializers/assets.rb"
+			],
+			[
+				"conta",
+				"test/mailers/previews/contact_mailer_preview.rb"
+			],
+			[
+				"devi",
+				"club-privé/config/initializers/devise.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
